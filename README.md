@@ -1,5 +1,6 @@
 # Gradient_descent
 题目描述： 
+
 1.Generate n = 2,000 points uniformly at random in the two-dimensional unit square.Which point do you expect the centroid to be?  
 2.What objective does the centroid of the points optimize?  
 3.Apply gradient descent to find the centroid.  
