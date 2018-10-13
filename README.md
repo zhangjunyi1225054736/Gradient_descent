@@ -15,6 +15,6 @@
 
 Please run Homework1.2.py to get the result
 
-![image](https://github.com/zhangjunyi1225054736/faster_rcnn-opencv_-visualization/blob/master/output/001150.jpg)
+![image](https://github.com/zhangjunyi1225054736/Gradient_descent/blob/master/1.png)
 
 
